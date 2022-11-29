@@ -1,5 +1,3 @@
-theme: slate
-
 # Bennett_Portfolio
 
 # [Project 1:](https://github.com/bempt/project1_repo)
