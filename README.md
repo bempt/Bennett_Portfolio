@@ -1,4 +1,5 @@
 # Bennett_Portfolio
+* Add links to twitter and linkedin
 
 # [Project 1:](https://github.com/bempt/project1_repo)
 * Look for a markdown cheat sheet online
